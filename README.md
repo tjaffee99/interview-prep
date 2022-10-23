@@ -1,2 +1,2 @@
 # interview-prep
-Data structures and algorithms
+Everything I'm doing to prepare to get hired by a tech company.
