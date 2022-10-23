@@ -1,2 +1,2 @@
 # interview-prep
-Everything I'm doing to prepare to get hired by a tech company.
+Everything I'm doing to become the best programmer I can be.
